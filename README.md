@@ -1,5 +1,7 @@
 # T440p Libreboot Builder
 
+*(Українська інструкція: [README.uk.md](README.uk.md))*
+
 Automated build tool for a [Libreboot](https://libreboot.org) firmware image
 for the **Lenovo ThinkPad T440p**. It builds and verifies a ROM. It never
 writes to SPI flash — flashing is a deliberate, separate, manual step you
