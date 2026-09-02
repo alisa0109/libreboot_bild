@@ -1,0 +1,7 @@
+# runtime-generated / user-supplied, never shipped in git
+/dumps/*.bin
+/assets/grub-background.png
+/work/
+/output/
+/logs/
+/libreboot/
